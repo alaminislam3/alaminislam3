@@ -1,4 +1,5 @@
-![Banner](https://i.ibb.co/xK1g5KQS/Code-Learn-Build-Repeat-MERN-Stack-Devel.png](https://i.ibb.co/xK1g5KQS/Code-Learn-Build-Repeat-MERN-Stack-Devel.png)
+![Code. Learn. Build. Repeat - MERN Stack Banner](https://i.ibb.co/xK1g5KQS/Code-Learn-Build-Repeat-MERN-Stack-Devel.png)
+
 
 
 
