@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/xK1g5KQS/Code-Learn-Build-Repeat-MERN-Stack-Devel.png"  />
+<img src="https://i.ibb.co/JRw0z1X/Code-Learn-Build-Repeat-new-MERN-Stack-Devel.jpg" alt="MERN Stack Developer Banner">
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand"/> Hi ! There ..
 
