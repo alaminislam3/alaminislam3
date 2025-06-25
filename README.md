@@ -5,12 +5,6 @@ Before transitioning into tech, I worked for over two years in customer service,
 
 I’m known for being respectful, easy to work with, and committed to getting things done the right way. Whether working independently or collaborating on a project, I bring a smart and focused approach to every task.
 
-## 🌍 Location  
-📍 Dhaka, Bangladesh
-
-## 📫 Contact Me  
-📧 [alamin.islam.dev2@gmail.com](mailto:alamin.islam.dev2@gmail.com)
-
 
 
 
