@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/xK1g5KQS/Code-Learn-Build-Repeat-MERN-Stack-Devel.png" width="100%" />
+<img src="https://i.ibb.co/xK1g5KQS/Code-Learn-Build-Repeat-MERN-Stack-Devel.png"  />
 
-# 👋 Hi there, I'm Alamin Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand"/>
+# 👋 Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand"/>
 
 ## 🧑‍💻 About Me
 
