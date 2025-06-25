@@ -5,7 +5,8 @@
 
 ## 🧑‍💻 About Me
 
-I’m Alamin Islam, a dedicated **MERN Stack Developer** based in **Dhaka, Bangladesh**, with a strong focus on building clean, efficient, and user-friendly web applications. I enjoy solving real-world problems through code and continuously expanding my knowledge of JavaScript, React, Node.js, and modern development tools.
+I’m Alamin Islam, a dedicated MERN Stack Developer with a strong focus on building clean, efficient, and user-friendly web applications. I enjoy solving real-world problems through code and continuously expanding my knowledge of JavaScript, React, Node.js, and modern development tools.
+
 
 Before transitioning into tech, I worked for over two years in customer service, where I developed strong communication skills, attention to detail, and the ability to stay calm under pressure — qualities that now help me work effectively in teams and deliver high-quality results.
 
