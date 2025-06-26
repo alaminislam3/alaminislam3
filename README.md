@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/zTY2yTcB/new.jpg" alt="MERN Stack Developer Banner" width="100%" />
+<img src="https://i.ibb.co/PKVzDWp/new-1.jpg" alt="MERN Stack Developer Banner" width="100%" />
+
 
 
 
