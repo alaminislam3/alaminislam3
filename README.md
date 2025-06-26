@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/zTY2yTcB/new.jpg" alt="MERN Stack Developer Banner" width="600" />
+<img src="https://i.ibb.co/zTY2yTcB/new.jpg" alt="MERN Stack Developer Banner" />
 
 
 
