@@ -52,7 +52,6 @@ I’m known for being respectful, easy to work with, and committed to getting th
 
 - 📫 How to reach me **alamin.islam.dev2@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1jZhinOQ_etiYA7yfQ6yyEWjNo8vC7K7smSboLFAzVlU/edit?tab=t.0](https://docs.google.com/document/d/1jZhinOQ_etiYA7yfQ6yyEWjNo8vC7K7smSboLFAzVlU/edit?tab=t.0)
 
 
 
