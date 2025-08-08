@@ -39,13 +39,10 @@ I’m known for being respectful, easy to work with, and committed to getting th
 
 ---
 
-<a href="YOUR_LINK_HERE" target="_blank">
-  <img alt="Connect with me" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='220' height='48'>
-    <rect rx='8' ry='8' width='220' height='48' fill='%23FF4B4B'/>
-    <text x='24' y='30' font-family='Arial, Helvetica, sans-serif' font-size='16' fill='%23ffffff'>🔗 Connect with me</text>
-  </svg>" />
-</a> <h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  <img src="https://www.svgrepo.com/show/475192/handshake.svg" alt="connect" width="28" height="28" style="vertical-align: middle;"/>
+  Connect with me:
+</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alaminislam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaminislam1" height="30" width="40" /></a>
 <a href="https://fb.com/alamin.onu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamin.onu/" height="30" width="40" /></a>
