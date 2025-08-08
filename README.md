@@ -66,8 +66,9 @@ I’m known for being respectful, easy to work with, and committed to getting th
 <a href="https://linkedin.com/in/alaminislam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaminislam1" height="30" width="40" /></a>
 <a href="https://fb.com/alamin.onu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamin.onu/" height="30" width="40" /></a>
 <a href="https://medium.com/@alaminonu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alaminonu9" height="30" width="40" /></a>
-<a href="tel:+8801747190824" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Call" height="30" width="40" /></a>
+<a href="tel:+8801747190824"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Call" height="30" width="40" /></a>
 </p>
+
 
 
 ---
