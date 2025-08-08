@@ -40,8 +40,8 @@ I’m known for being respectful, easy to work with, and committed to getting th
 ---
 
 <h3 align="left">
-  <img src="https://www.svgrepo.com/show/475192/handshake.svg" alt="connect" width="28" height="28" style="vertical-align: middle;"/>
-  Connect with me:
+ 
+🤝 Connect with me:
 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/alaminislam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaminislam1" height="30" width="40" /></a>
