@@ -41,7 +41,9 @@ I’m known for being respectful, easy to work with, and committed to getting th
 <h2>📈 Current Overview </h2>
 
 🔭 I’m currently learning next.js
+
 👯 I’m looking to collaborate on Web Dev Projects
+
 🤝 I’m looking to collaborate on open source project
 
 - 👨‍💻 All of my projects are available at [https://alaminislamportfolio.netlify.app/](https://alaminislamportfolio.netlify.app/)
