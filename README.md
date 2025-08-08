@@ -38,6 +38,23 @@ I’m known for being respectful, easy to work with, and committed to getting th
 </p>
 
 ---
+<h2>📈 Current Overview </h2>
+
+🔭 I’m currently learning next.js
+👯 I’m looking to collaborate on Web Dev Projects
+🤝 I’m looking to collaborate on open source project
+
+- 👨‍💻 All of my projects are available at [https://alaminislamportfolio.netlify.app/](https://alaminislamportfolio.netlify.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@alaminonu9](https://medium.com/@alaminonu9)
+
+- 📫 How to reach me **alamin.islam.dev2@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1jZhinOQ_etiYA7yfQ6yyEWjNo8vC7K7smSboLFAzVlU/edit?tab=t.0](https://docs.google.com/document/d/1jZhinOQ_etiYA7yfQ6yyEWjNo8vC7K7smSboLFAzVlU/edit?tab=t.0)
+
+
+
+
 
 <h3 align="left">
  
